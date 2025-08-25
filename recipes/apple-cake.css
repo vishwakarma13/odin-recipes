@@ -1,0 +1,21 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: brown;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+li {
+    margin: 8px;
+}
+
+a {
+    font-size: 20px;
+    color: brown;
+}
